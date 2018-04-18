@@ -335,6 +335,10 @@ semver@^5.1.0:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.5.0.tgz#dc4bbc7a6ca9d916dee5d43516f0092b58f7b8ab"
 
+siwi-uniquestring@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/siwi-uniquestring/-/siwi-uniquestring-1.0.4.tgz#87cff018c036ca4914686891b255b489b8076f5a"
+
 sliced@0.0.5:
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/sliced/-/sliced-0.0.5.tgz#5edc044ca4eb6f7816d50ba2fc63e25d8fe4707f"
